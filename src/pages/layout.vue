@@ -109,7 +109,7 @@
             <h1>父容器CSS:</h1>
             <pre>
 .items {
-    display: 'flex',
+    display: flex,
     flex-direction: {{ flexDirection }},
     flex-wrap: {{ flexWrap }},
     justify-content: {{ justifyContent }},
