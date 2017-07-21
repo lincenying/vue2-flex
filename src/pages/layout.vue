@@ -109,12 +109,12 @@
             <h1>父容器CSS:</h1>
             <pre>
 .items {
-    display: flex,
-    flex-direction: {{ flexDirection }},
-    flex-wrap: {{ flexWrap }},
-    justify-content: {{ justifyContent }},
-    align-items: {{ alignItems }},
-    align-content: {{ alignContent }}
+    display: flex;
+    flex-direction: {{ flexDirection }};
+    flex-wrap: {{ flexWrap }};
+    justify-content: {{ justifyContent }};
+    align-items: {{ alignItems }};
+    align-content: {{ alignContent }};
 }
             </pre>
         </el-col>
