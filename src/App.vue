@@ -1,7 +1,7 @@
 <template>
-<div class="g-doc">
-    <layout></layout>
-</div>
+    <div class="g-doc">
+        <layout></layout>
+    </div>
 </template>
 <script lang="babel">
 import Layout from './pages/layout.vue'
