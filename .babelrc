@@ -1,11 +1,7 @@
 {
-    "presets": ["es2015", "stage-2"],
+    "presets": ["@vue/app"],
     "plugins": [
-        "transform-export-extensions",
-        ["transform-runtime", {
-            "polyfill": true,
-            "regenerator": true
-        }]
-    ],
-    "comments": false
+        "jsx-v-model",
+        "vue-jsx-sync"
+    ]
 }
